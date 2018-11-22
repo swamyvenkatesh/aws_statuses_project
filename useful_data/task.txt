@@ -1,0 +1,32 @@
+ECR, Application Load Balancer, and Azure datalake analytics
+
+
+1.) check if https enabled
+2.) check AES 256
+
+
+BC
+
+1.)VPC
+2.)p subnets
+3.)private subnets
+
+ALB
+
+Encryption:1. check if https enabled
+2. check if AES 256 encryption algorithm is enabled 
+
+Boundary control:
+
+1. Check if VPC , public subnets , private subnets , Elastic IP's , security group are present.
+
+Identity and Access Management:
+
+1. Check if AWS certificate manager has certificates .
+2. check if any AWS IAM service accounts used for ALB are stored in AWS IAM with 90 day key notification
+
+Monitoring :
+
+1. Check if URL Monitoring is enabled.
+2. Check if Cloud Watch metrics are enabled.
+3. Check if Cloud Watch Alarms are enabled.

@@ -1,0 +1,136 @@
+create load balancer
+create VPC subnet or default vpc 
+create security group or use default one
+
+
+
+
+
+Instance:  i-080e475888791c735Public DNS: ec2-13-127-122-128.ap-south-1.compute.amazonaws.com
+
+
+
+
+
+
+Instance ID
+i-080e475888791c735
+	
+Public DNS (IPv4)
+ec2-13-127-122-128.ap-south-1.compute.amazonaws.com
+Instance state
+running
+	
+IPv4 Public IP
+13.127.122.128
+Instance type
+t2.micro
+	
+IPv6 IPs
+-
+Elastic IPs
+
+	
+Private DNS
+ip-172-31-24-72.ap-south-1.compute.internal
+Availability zone
+ap-south-1a
+	
+Private IPs
+172.31.24.72
+Security groups
+default. view inbound rules. view outbound rules
+	
+Secondary private IPs
+Scheduled events
+No scheduled events
+	
+VPC ID
+vpc-9a5c7df2
+AMI ID
+ubuntu/images/hvm-ssd/ubuntu-bionic-18.04-amd64-server-20180912 (ami-0d773a3b7bb2bb1c1)
+	
+Subnet ID
+subnet-74004e1c
+Platform
+-
+	
+Network interfaces
+eth0
+IAM role
+swamy_role
+	
+Source/dest. check
+True
+Key pair name
+swamy_testing_ec2
+	
+T2 Unlimited
+Disabled
+	
+Owner
+326718784130
+	
+EBS-optimized
+False
+Launch time
+November 21, 2018 at 4:26:09 PM UTC+5:30 (less than one hour)
+	
+Root device type
+ebs
+Termination protection
+True
+	
+Root device
+/dev/sda1
+Lifecycle
+normal
+	
+Block devices
+/dev/sda1
+Monitoring
+detailed
+	
+Alarm status
+None
+	
+Kernel ID
+-
+	
+	
+RAM disk ID
+-
+Capacity Reservation
+-
+	
+Placement group
+-
+Capacity Reservation Settings
+Open
+	
+Virtualization
+hvm
+	
+Reservation
+r-03f595bed7541d7e4
+	
+AMI launch index
+0
+	
+Tenancy
+default
+	
+Host ID
+-
+	
+Affinity
+-
+	
+State transition reason
+-
+	
+State transition reason message
+-
+	
+Number of vCPUs
+1

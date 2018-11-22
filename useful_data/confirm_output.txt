@@ -1,0 +1,10 @@
+Using describe_instance method below getting results:
+
+	- got subnet  id
+	- got vpc
+	- got security group
+	- IAM
+	- monitoring state checking
+	- IamInstanceProfile
+
+Using get role
